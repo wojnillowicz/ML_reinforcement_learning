@@ -23,8 +23,9 @@ The agent uses a Q-table to learn optimal actions over time.
 Training happens over many episodes, and the success rate is
 tracked and visualized using matplotlib at the end.
 
-After training, the agent plays a few rounds where you can
-watch the object fall in the terminal and see if it is caught.
+During training, the agent plays and you can watch the object
+fall and see if it is caught after training sessions of the interval
+of your choice.
 
 
 ------------------------------------------------------------
