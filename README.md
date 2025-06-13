@@ -1,2 +1,2 @@
-# machine_learning
+# Machine Learning: reinforcement learning
 Machine Learning project
